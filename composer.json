@@ -17,7 +17,8 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/exodus4d/pathfinder_esi"
+      "url": "https://github.com/exodus4d/pathfinder_esi",
+      "no-api": true
     }],
   "require": {
     "php-64bit": ">=7.1",
